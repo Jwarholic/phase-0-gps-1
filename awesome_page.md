@@ -1,6 +1,10 @@
 # Hello
  
+<<<<<<< HEAD
 **Jason** is a *amazing* great name
+=======
+**Jason** is a *super* great name
+>>>>>>> small-conflict
 
 `CODE BLOCK`
 
